@@ -1,1 +1,3 @@
-Read the Sample file 
+Demonstrating Git
+
+Todo : Need to add branching strategy 
